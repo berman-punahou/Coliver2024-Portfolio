@@ -1,0 +1,48 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+.white-text {
+    color: white;
+}
+    
+.row {
+    height: auto;
+}
+#Top-Bar {
+    background-color: goldenrod;
+}
+
+#picbox {
+    background-color: aquamarine;
+}
+
+#box-a {
+    background-color: seagreen;
+}
+
+#box-b {
+    background-color: darkgreen;
+}
+
+#box-c {
+    background-color: lightcoral;
+}
+
+#box-d {
+    background-color: #689CCA;
+}
+
+#box-e {
+    background-color: #0047ab;
+}
+
+#box-f {
+    background-color: #aa2704;
+}
+
+#box-g {
+    background-color: #0d49c0;
+}
+
