@@ -1,0 +1,57 @@
+/* General Styles */
+
+body {
+    background-color: #76AA0E;
+    margin: 1;
+    padding: 1;
+    font-family: "Cedarville Cursive", cursive;
+}
+
+/* Element Selector: Styling the main heading (h1) */
+
+
+
+/* Class selectors */
+ 
+.highlight-Reading {
+    background-color: aquamarine;
+}
+ 
+.highlight-Coding {
+    background-color: lightcyan;
+}
+ 
+.highlight-Running { 
+    color: #C84630;
+    background-color: royalblue;
+ }
+
+.highlight-Gaming {
+    background-color: palevioletred;
+}
+
+.highlight-Sleeping {
+    background-color: lightseagreen;
+}
+
+.cedarville-cursive-regular {
+  font-family: "Cedarville Cursive", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+/* ID Selectors */
+#cursive { 
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: bolder;
+    text-shadow: 5px 3px 5px rgba(0, 0, 0, 0.5);
+ }
+
+
+
+
+
+
+
+
+
